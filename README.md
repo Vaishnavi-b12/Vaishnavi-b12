@@ -13,16 +13,19 @@ Database Management: MongoDB
 🛠️ Projects:
 
 Project Name 1: I have done my project on Zomato where I found the sales, revenue and business model of it.
+
 Project Name 2: sql-fasoos-portfolio project
 This is a project i did on Faaso's where the Dataset includes a comprehensive collection of real-world data from the popular food delivery service, Faaso's.
-Project Name 3:
-📚 Education:
 
-Degree in [Your Degree] from [Your University]
+Project Name 3:Apocalypse Store Data Analysis:
+This repository contains a Power BI project that analyzes data from the Apocalypse Store. The project highlights sales, customer information, and customer buyer information.
+
+📚 Education:
+Degree in [Business Process Management] from [Loyola Academy Degree & PG College Hyderabad.]
 🌐 Connect with Me:
 
-LinkedIn: LinkedIn Profile
-Portfolio Website: Your Portfolio Website
+LinkedIn: LinkedIn Profile [https://www.linkedin.com/in/boddadi-vaishnavi-4b517921b](url)
+Portfolio Website: Your Portfolio Website [https://github.com/Vaishnavi-b12](url)
 📖 About Me:
 I'm enthusiastic about leveraging data to solve complex problems and make informed decisions. With a strong foundation in SQL and Python, I've undertaken several data-centric projects, which you can explore on my GitHub page. My expertise in data visualization tools like Power BI and Tableau helps me communicate insights effectively. I'm also familiar with database management using MongoDB.
 

@@ -12,7 +12,7 @@ Data Visualization: Power BI, Tableau
 Database Management: MongoDB
 🛠️ Projects:
 
-Project Name 1: Brief description of the project.
+Project Name 1:SQL Project 
 Project Name 2: Brief description of the project.
 Project Name 3: Brief description of the project.
 📚 Education:

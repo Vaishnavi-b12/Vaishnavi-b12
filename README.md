@@ -13,8 +13,9 @@ Database Management: MongoDB
 🛠️ Projects:
 
 Project Name 1: I have done my project on Zomato where I found the sales, revenue and business model of it.
-Project Name 2: Brief description of the project.
-Project Name 3: Brief description of the project.
+Project Name 2: sql-fasoos-portfolio project
+This is a project i did on Faaso's where the Dataset includes a comprehensive collection of real-world data from the popular food delivery service, Faaso's.
+Project Name 3:
 📚 Education:
 
 Degree in [Your Degree] from [Your University]
